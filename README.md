@@ -21,7 +21,7 @@
 ---
 
 ## 🌍 Сайт проекта
-➡️ [Открыть сайт](https://gariksirik.github.io/Elon-nft/)
+➡️(https://gariksirik.github.io/Elon-nft/)
 
 ---
 
